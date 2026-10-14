@@ -1,0 +1,5 @@
+# Temporary images
+preview_*.png
+sig_*.png
+extracted_*.png
+temp_*
